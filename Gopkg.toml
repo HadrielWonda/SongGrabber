@@ -27,7 +27,7 @@
 
 [[constraint]]
   branch = "develop"
-  name = "github.com/dwarvesf/glod"
+  name = "github.com/dwarvesf/songgrabber"
 
 [[constraint]]
   name = "gopkg.in/cheggaaa/pb.v1"

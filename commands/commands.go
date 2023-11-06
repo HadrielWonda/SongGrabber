@@ -32,7 +32,7 @@ func New() *cobra.Command {
 
 	// rootCmd represents the base command when called without any subcommands
 	var rootCmd = &cobra.Command{
-		Use:   "glod",
+		Use:   "songgrabber",
 		Short: "CLI downloader",
 		Long:  `A small cli written in Go to help download music/video from multiple sources.`,
 	}
