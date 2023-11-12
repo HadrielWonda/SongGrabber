@@ -21,7 +21,7 @@
 
 [[projects]]
   branch = "develop"
-  name = "github.com/dwarvesf/songgrabber"
+  name = "github.com/hadrielwonda/songgrabber"
   packages = [".","chiasenhac","facebook","nhaccuatui","soundcloud","vimeo","youtube","zing"]
   revision = "1d32b574f5576090332dc86b912b200190add55e"
 
